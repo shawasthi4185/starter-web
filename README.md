@@ -18,3 +18,4 @@ please do this
 ##Add new text
 New text
 
+git status
